@@ -1,0 +1,6 @@
+finding_id,asset_id,severity,days_open,overdue
+F-001,WEB-001,critical,12,true
+F-002,APP-014,high,44,true
+F-003,APP-014,medium,18,false
+F-004,DB-007,high,27,false
+F-005,WKST-022,low,95,true
