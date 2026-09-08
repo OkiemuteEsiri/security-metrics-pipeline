@@ -1,0 +1,5 @@
+asset_id,owner,criticality
+WEB-001,web-platform,5
+APP-014,application-team,4
+DB-007,database-team,5
+WKST-022,endpoint-team,2
